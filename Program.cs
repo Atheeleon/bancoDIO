@@ -166,31 +166,25 @@ namespace BancoDio
 
             switch(confirma)
             {
-
-                //identificador random
-                    //index
-                // pf ou pj
-                // cpf ou cnpj
-
                 case "SIM":
                     Console.Write("Por favor, informe o identificador da conta: ");
                     int idConta = int.Parse(Console.ReadLine());
 
                     for (int i = 0; i < listContas.Count; i++)
                     {
-                        if(listContas[i].ToString().Contains(Convert.ToString("Identificador da Conta: " + idConta)))
+                        if(listContas[i].ToString().Contains(Convert.ToString("Identificador da Conta: " + idConta + ".")))
                         {
                             Console.Write("Conta encontrada.\nAgora, informe o tipo de conta. PF ou PJ? ");
                             string tipoConta = Console.ReadLine().ToUpper();
 
-                            if(listContas[i].ToString().Contains("Tipo de Conta: " + tipoConta))
+                            if(listContas[i].ToString().Contains("Tipo de Conta: " + tipoConta + "."))
                             {
                                 if(tipoConta=="PF")
                                 {
                                     Console.Write("Perfeito, agora só precisamos que você confirme o CPF: ");
                                     string cpfcnpj = Console.ReadLine();
 
-                                    if(listContas[i].ToString().Contains("CPF: " + cpfcnpj))
+                                    if(listContas[i].ToString().Contains("CPF: " + cpfcnpj + "."))
                                     {
                                         Console.WriteLine($"CANCELAMENTO DE CONTA\nTEM CERTEZA QUE DESEJA CANCELAR A CONTA {idConta}?");
                                         Console.WriteLine("Digite SIM ou NAO");
@@ -219,7 +213,7 @@ namespace BancoDio
                                     Console.Write("Perfeito, agora só precisamos que você confirme o CNPJ: ");
                                     string cpfcnpj = Console.ReadLine();
 
-                                    if(listContas[i].ToString().Contains("CNPJ: " + cpfcnpj))
+                                    if(listContas[i].ToString().Contains("CNPJ: " + cpfcnpj + "."))
                                     {
                                         Console.WriteLine($"CANCELAMENTO DE CONTA\nTEM CERTEZA QUE DESEJA CANCELAR A CONTA {idConta}?");
                                         Console.WriteLine("Digite SIM ou NAO");
@@ -256,11 +250,8 @@ namespace BancoDio
                             }
                             break;
                         }
-                        else if (i == listContas.Count)
-                        {
-                            Console.WriteLine("A conta especificada não existe.");
-                        }
                     }
+                    Console.WriteLine("A conta especificada não existe.");
                     break;
 
                 case "NAO":

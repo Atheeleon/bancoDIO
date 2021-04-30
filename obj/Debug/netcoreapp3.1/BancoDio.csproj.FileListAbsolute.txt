@@ -24,3 +24,16 @@ D:\Csharp\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.csproj.CoreCompileInputs.cac
 D:\Csharp\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.dll
 D:\Csharp\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.pdb
 D:\Csharp\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.genruntimeconfig.cache
+D:\Git\bancoDIO\bin\Debug\netcoreapp3.1\BancoDio.exe
+D:\Git\bancoDIO\bin\Debug\netcoreapp3.1\BancoDio.deps.json
+D:\Git\bancoDIO\bin\Debug\netcoreapp3.1\BancoDio.runtimeconfig.json
+D:\Git\bancoDIO\bin\Debug\netcoreapp3.1\BancoDio.runtimeconfig.dev.json
+D:\Git\bancoDIO\bin\Debug\netcoreapp3.1\BancoDio.dll
+D:\Git\bancoDIO\bin\Debug\netcoreapp3.1\BancoDio.pdb
+D:\Git\bancoDIO\obj\Debug\netcoreapp3.1\BancoDio.csprojAssemblyReference.cache
+D:\Git\bancoDIO\obj\Debug\netcoreapp3.1\BancoDio.AssemblyInfoInputs.cache
+D:\Git\bancoDIO\obj\Debug\netcoreapp3.1\BancoDio.AssemblyInfo.cs
+D:\Git\bancoDIO\obj\Debug\netcoreapp3.1\BancoDio.csproj.CoreCompileInputs.cache
+D:\Git\bancoDIO\obj\Debug\netcoreapp3.1\BancoDio.dll
+D:\Git\bancoDIO\obj\Debug\netcoreapp3.1\BancoDio.pdb
+D:\Git\bancoDIO\obj\Debug\netcoreapp3.1\BancoDio.genruntimeconfig.cache

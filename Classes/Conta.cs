@@ -49,22 +49,22 @@ namespace BancoDio
         public override string ToString()
         {
             string retorno = "";
-            retorno += "\nIdentificador da Conta: " + idConta;
-            retorno += "\nNome: " + Nome;
-            retorno += "\nTipo de Conta: " + TipoConta;
+            retorno += "\nIdentificador da Conta: " + idConta + ".";
+            retorno += "\nNome: " + Nome + ".";
+            retorno += "\nTipo de Conta: " + TipoConta + ".";
 
             switch (Convert.ToInt16(TipoConta))
             {
                 case 1:
-                    retorno += "\nCPF: " + CPFCNPJ;
+                    retorno += "\nCPF: " + CPFCNPJ + ".";
                     break;
                 case 2:
-                    retorno += "\nCNPJ: " + CPFCNPJ;
+                    retorno += "\nCNPJ: " + CPFCNPJ + ".";
                     break;
             }
             
-            retorno += "\nSaldo: " + Saldo;
-            retorno += "\nCredito: " + Credito;
+            retorno += "\nSaldo: " + Saldo + ".";
+            retorno += "\nCredito: " + Credito + ".";
             return retorno;
         }
     }
