@@ -1,0 +1,26 @@
+E:\Digital Innovation One\BancoDio\bin\Debug\netcoreapp3.1\BancoDio.exe
+E:\Digital Innovation One\BancoDio\bin\Debug\netcoreapp3.1\BancoDio.deps.json
+E:\Digital Innovation One\BancoDio\bin\Debug\netcoreapp3.1\BancoDio.runtimeconfig.json
+E:\Digital Innovation One\BancoDio\bin\Debug\netcoreapp3.1\BancoDio.runtimeconfig.dev.json
+E:\Digital Innovation One\BancoDio\bin\Debug\netcoreapp3.1\BancoDio.dll
+E:\Digital Innovation One\BancoDio\bin\Debug\netcoreapp3.1\BancoDio.pdb
+E:\Digital Innovation One\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.csprojAssemblyReference.cache
+E:\Digital Innovation One\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.AssemblyInfoInputs.cache
+E:\Digital Innovation One\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.AssemblyInfo.cs
+E:\Digital Innovation One\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.csproj.CoreCompileInputs.cache
+E:\Digital Innovation One\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.dll
+E:\Digital Innovation One\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.pdb
+E:\Digital Innovation One\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.genruntimeconfig.cache
+D:\Csharp\BancoDio\bin\Debug\netcoreapp3.1\BancoDio.exe
+D:\Csharp\BancoDio\bin\Debug\netcoreapp3.1\BancoDio.deps.json
+D:\Csharp\BancoDio\bin\Debug\netcoreapp3.1\BancoDio.runtimeconfig.json
+D:\Csharp\BancoDio\bin\Debug\netcoreapp3.1\BancoDio.runtimeconfig.dev.json
+D:\Csharp\BancoDio\bin\Debug\netcoreapp3.1\BancoDio.dll
+D:\Csharp\BancoDio\bin\Debug\netcoreapp3.1\BancoDio.pdb
+D:\Csharp\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.csprojAssemblyReference.cache
+D:\Csharp\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.AssemblyInfoInputs.cache
+D:\Csharp\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.AssemblyInfo.cs
+D:\Csharp\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.csproj.CoreCompileInputs.cache
+D:\Csharp\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.dll
+D:\Csharp\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.pdb
+D:\Csharp\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.genruntimeconfig.cache
